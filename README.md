@@ -20,9 +20,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/LRGM5VMVv1.gif" width=250><br>
 
 ### Notes
 An error message "error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2." Solution: pod, built systems, and changing the swift language version.
